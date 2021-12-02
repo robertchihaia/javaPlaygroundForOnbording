@@ -147,9 +147,5 @@ public class principal extends Programs {
             System.out.println("The finally statement is executed.");;
         }
 
-
-
-
-
     }
 }
